@@ -44,3 +44,7 @@ Goole Play:
 https://play.google.com/store/apps/developer?id=HappyDogGame
 
 ![image](https://user-images.githubusercontent.com/23443532/220822859-987a2667-3896-4753-82ca-344ea3d93d47.png)
+
+
+# Contact
+alexhappydog@gmail.com
