@@ -2,6 +2,19 @@
 
 Welcome To HappyDogGame, Enjoy creative casual games!
 
+# Our Store URL
+
+Apple Store:
+https://apps.apple.com/us/developer/%E6%96%87%E6%98%8E-%E5%AD%99/id1556686052
+
+![image](https://user-images.githubusercontent.com/23443532/220822823-1b70b573-e305-463e-9e7a-7f80174305ef.png)
+
+
+Goole Play:
+https://play.google.com/store/apps/developer?id=HappyDogGame
+
+![image](https://user-images.githubusercontent.com/23443532/220822859-987a2667-3896-4753-82ca-344ea3d93d47.png)
+
 
 # Games
 Angry Pinata : Cash Cush
@@ -30,21 +43,6 @@ https://apps.apple.com/us/app/bow-fishing-with-rope/id1594394633
 
 Beauty Photobomb
 https://apps.apple.com/us/app/lumber-warrior-defense-war/id1633879169
-
-
-# Our Store URL
-
-Apple Store:
-https://apps.apple.com/us/developer/%E6%96%87%E6%98%8E-%E5%AD%99/id1556686052
-
-![image](https://user-images.githubusercontent.com/23443532/220822823-1b70b573-e305-463e-9e7a-7f80174305ef.png)
-
-
-Goole Play:
-https://play.google.com/store/apps/developer?id=HappyDogGame
-
-![image](https://user-images.githubusercontent.com/23443532/220822859-987a2667-3896-4753-82ca-344ea3d93d47.png)
-
 
 # Contact
 alexhappydog@gmail.com
