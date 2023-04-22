@@ -3,35 +3,6 @@
 Welcome To HappyDogGame, Enjoy creative casual games!
 
 
-# Games
-Angry Pinata : Cash Cush
-https://apps.apple.com/us/app/angry-pinata-cash-cush/id1669900025
-
-Merge Block: Defense War
-https://apps.apple.com/us/app/merge-block-defense-war/id6443730349
-
-Tetris 3D: Hero
-https://apps.apple.com/us/app/angry-pinata-cash-cush/id1669900025
-
-Round Merge 3D: 2048 Quest
-https://apps.apple.com/us/app/tetris-3d-hero/id1643244390
-
-Conquer Towers: Takeover
-https://apps.apple.com/us/app/round-merge-3d-2048-quest/id1645767431
-
-Bomber: Build And Run
-https://apps.apple.com/us/app/conquer-towers-takeover/id1634020671
-
-bow fishing with rope
-https://apps.apple.com/us/app/bomber-build-and-run/id1584763493
-
-Lumber Warrior Defense War
-https://apps.apple.com/us/app/bow-fishing-with-rope/id1594394633
-
-Beauty Photobomb
-https://apps.apple.com/us/app/lumber-warrior-defense-war/id1633879169
-
-
 # Our Store URL
 
 Apple Store:
@@ -45,6 +16,33 @@ https://play.google.com/store/apps/developer?id=HappyDogGame
 
 ![image](https://user-images.githubusercontent.com/23443532/220822859-987a2667-3896-4753-82ca-344ea3d93d47.png)
 
+# Games
+Angry Pinata : Cash Cush
+https://apps.apple.com/us/app/angry-pinata-cash-cush/id1669900025
+
+Merge Block: Defense War
+https://apps.apple.com/us/app/merge-block-defense-war/id6443730349
+
+Block Puzzle Blast: All in one
+https://apps.apple.com/us/app/block-puzzle-blast-all-in-one/id1643244390
+
+Round Merge 3D: 2048 Quest
+https://apps.apple.com/us/app/round-merge-3d-2048-quest/id1645767431
+
+Conquer Towers: Takeover
+https://apps.apple.com/us/app/conquer-towers-takeover/id1634020671
+
+Bomber: Build And Run
+https://apps.apple.com/us/app/bomber-build-and-run/id1584763493
+
+bow fishing with rope
+https://apps.apple.com/us/app/bow-fishing-with-rope/id1594394633
+
+Lumber Warrior Defense War
+https://apps.apple.com/us/app/lumber-warrior-defense-war/id1633879169
+
+Beauty Photobomb
+https://apps.apple.com/us/app/beauty-photobomb/id1588721683
 
 # Contact
 alexhappydog@gmail.com
